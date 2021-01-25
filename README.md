@@ -10,7 +10,7 @@ The main findings of our paper are available in the ```data_release``` folder. T
 ## Code release
 ### Replication
 
-In the folder ```replication```, we provide code to replicate the main findings of our paper.
+In the ```replication``` folder, we provide code to replicate the main findings of our paper.
 
 * MRI preprocessing
 * BOLD signal variability
@@ -22,4 +22,4 @@ In the folder ```replication```, we provide code to replicate the main findings 
 * v0.1.1 (25/01/2021): Initial release
 
 ## Bugs and questions
-Please contact Valeria Kebets at [valkebets@gmail.com](valkebets@gmail.com)
+Please contact Valeria Kebets at [valkebets@gmail.com](mailto:valkebets@gmail.com)
