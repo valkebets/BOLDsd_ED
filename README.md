@@ -5,7 +5,7 @@ Kebets V, Favre P, Houenou J, Polosan M, Aubry JM, Van De Ville D, Piguet C. **F
 
 ## Data release
 
-The main findings of our paper are available in the ```data_release``` folder. The data include the imaging (i.e., BOLD variability) and clinical loadings associated with the first latent component (LC1), and the imaging and behavioral PLS scores of LC1 of all participants. The diagnostic group of participants is also listed in ```LC1_pls_scores.csv```.
+The main findings of our paper are available in the ```data_release``` folder. The data include the imaging (i.e., BOLD variability) and clinical loadings associated with the first latent component (```LC1_loadings.mat```), and the brain and behavioral PLS scores of LC1 of all participants (```LC1_pls_scores.csv```), along with their diagnostic group.
 
 ## Code release
 
