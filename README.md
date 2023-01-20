@@ -1,7 +1,7 @@
 # Fronto-limbic neural variability as a transdiagnostic correlate of emotion dysregulation
 
 ## Reference
-Kebets V, Favre P, Houenou J, Polosan M, Aubry JM, Van De Ville D, Piguet C. **Fronto-limbic neural variability as a transdiagnostic correlate of emotion dysregulation**. _Translational Psychiatry (Accepted)_. Preprint available [here](https://www.medrxiv.org/content/10.1101/2020.12.18.20248457v1).
+Kebets V, Favre P, Houenou J, Polosan M, Aubry JM, Van De Ville D, Piguet C. **[Fronto-limbic neural variability as a transdiagnostic correlate of emotion dysregulation](https://doi.org/10.1038/s41398-021-01666-3)**. _Translational Psychiatry 11, 545 (2021)_.
 
 ## Data release
 
